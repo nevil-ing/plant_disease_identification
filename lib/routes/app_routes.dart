@@ -1,0 +1,3 @@
+enum AppRoutes {
+  maizeDisease, defaultRoute,
+}
